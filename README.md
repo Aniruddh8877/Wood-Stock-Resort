@@ -30,7 +30,7 @@ A luxury destination where nature meets elegance. Woodstock Resorts is a premium
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Aniruddh8877/Wood-Stock-Resort.git
    ```
 
 2. Install dependencies:
